@@ -1,15 +1,15 @@
 <?php
 
-namespace Bolt\Extension\L00T\Extender;
+namespace Bolt\Extension\Loot\Extender;
 
 use Bolt\Asset\File\JavaScript;
 use Bolt\Asset\File\Stylesheet;
 use Bolt\Extension\SimpleExtension;
 
 /**
- * ExtensionName extension class.
+ * Extender extension class.
  *
- * @author Cibor <you@example.com>
+ * @author Cibor <filip.ciborek@gmail.com>
  */
 class ExtenderExtension extends SimpleExtension
 {
